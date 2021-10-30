@@ -17,7 +17,8 @@ html, body {
       width: 100%;
       flex-basis: 30%;
       background-color: #000;
-      text-align: center; }
+      text-align: center;
+      padding-top: 12px; }
       .nav-section .row .col-1 .logo {
         width: 62%; }
     .nav-section .row .col-2 {
@@ -26,7 +27,8 @@ html, body {
       background-color: #686872;
       position: relative;
       display: flex;
-      justify-content: center; }
+      justify-content: center;
+      padding-top: 6px; }
       .nav-section .row .col-2 #mobile-nav {
         font-size: 27px;
         color: #fff;
